@@ -1,2 +1,2 @@
 # Quizzler-App
-Quiz/Trivia app with 10 different questions each time you run the app with the main topic being technology
+Quiz/Trivia app with 10 different questions each time you run the app, main topic being technology. Score is displayed on the top right and the GUI indicates when you got a question wrong by turning red, right by turning green. At the end of the quiz it displays the text "You've reached the end of the quiz" and no longer lets u press the true or false buttons. The app is made with different python libraries and frameworks, classes, functions, API requests, JSON data.
